@@ -1,7 +1,5 @@
 # Data-Manipulation-and-Reporting-with-PowerBI
 
-# Zomato Power BI Report Project
-
 **Introduction**
 
 Zomato, a renowned restaurant aggregation and meal delivery service, aims to analyze its global data to assess business performance effectively. This Power BI report consolidates restaurant information from 
